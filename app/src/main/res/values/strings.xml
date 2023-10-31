@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <array name="type_of_ticket">
+        <item>First Class Ticket</item>
+        <item>Business Class Ticket</item>
+        <item>Economy Class Ticket</item>
+    </array>
+</resources>
