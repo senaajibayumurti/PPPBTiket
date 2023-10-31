@@ -50,7 +50,7 @@
         android:id="@+id/bottom_navigation_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:itemIconTint="@color/bottom_nav_color_selector"
+        app:itemIconTint="@color/black"
         app:itemTextColor="@color/bottom_nav_color_selector"
         android:background="@color/white"
         app:itemTextAppearanceActive="@style/NavText"

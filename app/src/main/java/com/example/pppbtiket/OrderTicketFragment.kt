@@ -23,7 +23,7 @@ class OrderTicketFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         with(binding) {
-            val typeOfTicket = resources.getStringArray(R.array.type_of_ticket)
+            val typeOfTicket = resources.getStringArray(R.array.jenis_tiket)
             val adapterTypeOfTicket = ArrayAdapter<String>(requireContext(), R.layout.spinner_item, typeOfTicket)
             spinnerTicketType.adapter = adapterTypeOfTicket
 

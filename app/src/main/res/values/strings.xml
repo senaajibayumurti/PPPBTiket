@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">PPPBTravel</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <array name="type_of_ticket">
+    <array name="jenis_tiket">
         <item>Jenis Tiket</item>
         <item>First Class Ticket</item>
         <item>Business Class Ticket</item>
