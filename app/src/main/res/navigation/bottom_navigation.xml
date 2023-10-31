@@ -6,12 +6,12 @@
     app:startDestination="@id/ticketFragment">
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.example.tugaspertemuan9.HomeFragment"
+        android:name="com.example.pppbtiket.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" />
     <fragment
         android:id="@+id/ticketFragment"
-        android:name="com.example.tugaspertemuan9.TicketFragment"
+        android:name="com.example.pppbtiket.TicketFragment"
         android:label="fragment_ticket"
         tools:layout="@layout/fragment_ticket" >
         <action
@@ -20,12 +20,12 @@
     </fragment>
     <fragment
         android:id="@+id/profileFragment"
-        android:name="com.example.tugaspertemuan9.ProfileFragment"
+        android:name="com.example.pppbtiket.ProfileFragment"
         android:label="fragment_profile"
         tools:layout="@layout/fragment_profile" />
     <fragment
         android:id="@+id/orderTicketFragment"
-        android:name="com.example.tugaspertemuan9.OrderTicketFragment"
+        android:name="com.example.pppbtiket.OrderTicketFragment"
         android:label="fragment_order_ticket"
         tools:layout="@layout/fragment_order_ticket" />
 </navigation>

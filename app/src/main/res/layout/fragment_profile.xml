@@ -16,18 +16,18 @@
 
     <TextView
         android:id="@+id/txt_name"
+        style="@style/ActivityTitle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Dwi Agung Febriyanto"
-        style="@style/ActivityTitle"/>
+        android:text="Sena Aji Bayu Murti" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="22/493887/SV/20746"
-        android:textSize="20sp"
         android:fontFamily="@font/poppins_light"
-        android:textAlignment="center"/>
+        android:text="22/505018/SV/21751"
+        android:textAlignment="center"
+        android:textSize="20sp" />
 
 
 </LinearLayout>

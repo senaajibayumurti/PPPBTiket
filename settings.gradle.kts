@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Tugas Pertemuan 9"
+rootProject.name = "PPPBTiket"
 include(":app")

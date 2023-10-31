@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.tugaspertemuan9"
-    compileSdk = 33
+    namespace = "com.example.pppbtiket"
+    compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.tugaspertemuan9"
+        applicationId = "com.example.pppbtiket"
         minSdk = 21
         targetSdk = 33
         versionCode = 1
